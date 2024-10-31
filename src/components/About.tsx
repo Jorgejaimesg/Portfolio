@@ -11,7 +11,7 @@ export default function About() {
               <div className="absolute -inset-1 bg-gradient-to-r from-blue-500 to-purple-500 rounded-2xl blur opacity-25 group-hover:opacity-75 transition duration-1000"></div>
               <div className="relative aspect-square rounded-2xl overflow-hidden">
                 <img
-                  src="/me.jpeg"
+                  src="me.jpeg"
                   alt="Profile"
                   className="w-full h-full object-cover transform transition duration-700 group-hover:scale-105"
                 />
@@ -48,7 +48,7 @@ export default function About() {
                   </a>
                 ))}
                 <a
-                  href="/cv.pdf"
+                  href="cv.pdf"
                   download
                   className="flex items-center gap-2 text-gray-300 hover:text-white bg-gray-700 hover:bg-gray-600 px-4 py-2 rounded-full transition-all"
                 >
