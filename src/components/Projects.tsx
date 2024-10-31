@@ -6,21 +6,21 @@ const projects = [
   {
     title: 'Pepita Confections',
     description: 'A web application focused on inventory and cost management for a clothing manufacturing company.',
-    image: 'pepita.png',
+    image: '/pepita.png',
     tech: ['Lit', 'Javascript'],
     github: 'https://github.com/Jorgejaimesg/pepita-confections-project'
   },
   {
     title: 'JSA-Services',
     description: 'Web application focused on the sale and management of sales of services in companies',
-    image: 'jsaService.png',
+    image: '/jsaService.png',
     tech: ['TypeScript', 'React', 'Java', 'SpringBoot', 'MySQL'],
     github: 'https://github.com/simonmantillago/JSA-EnterpriseManager'
   },
   {
     title: 'Zap-Store',
     description: ' web application focused on inventory and sales management for an electrical devices company',
-    image: 'zapStore.jpg',
+    image: '/zapStore.jpg',
     tech: ['Java', 'MySQL'],
     github: 'https://github.com/Jorgejaimesg/zapstore'
   },
