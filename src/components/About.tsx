@@ -48,7 +48,7 @@ export default function About() {
                   </a>
                 ))}
                 <a
-                  href="/cv.pdf"
+                  href="/cv1.pdf"
                   download
                   className="flex items-center gap-2 text-gray-300 hover:text-white bg-gray-700 hover:bg-gray-600 px-4 py-2 rounded-full transition-all"
                 >
